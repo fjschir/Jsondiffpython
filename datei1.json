@@ -1,5 +1,9 @@
 [
     {"ObjektNr": 1, "Key": "Schlüssel1", "Value": 1},
-    {"ObjektNr": 2, "Key": "Schlüssel2", "Value": "Value2"},
-    {"ObjektNr": 3, "Key": "Schlüssel3", "Value": "Value3"}
+    {"ObjektNr": 2, "Key": "Schlüssel1", "Value": 1},
+    {"ObjektNr": 2, "Key": "Schlüssel2", "Value": 2},
+    {"ObjektNr": 2, "Key": "Schlüssel3", "Value": 3},
+    {"ObjektNr": 2, "Key": "Schlüssel4", "Value": 4},
+    {"ObjektNr": 22122, "Key": "Schlüssel3", "Value": "Value3"},
+    {"ObjektNr": 22122, "Key": "Schlüssel4", "Value": "Value3"}
 ]

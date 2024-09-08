@@ -1,6 +1,8 @@
 [
-    {"ObjektNr": 1, "Key": "Schlüssel1", "Value": 1.00000000001},
-    {"ObjektNr": 2, "Key": "Schlüssel2", "Value": "Value22"},
-    {"ObjektNr": 34, "Key": "Schlüssel3", "Value": "Value3"},
-    {"ObjektNr": 4, "Key": "Schlüssel3", "Value": "Value1"}
+    {"ObjektNr": 1, "Key": "Schlüssel1", "Value": 1},
+    {"ObjektNr": 2, "Key": "Schlüssel1", "Value": 1},
+    {"ObjektNr": 2, "Key": "Schlüssel2", "Value": 2},
+    {"ObjektNr": 2, "Key": "Schlüssel3", "Value": 3.3},
+    {"ObjektNr": 2, "Key": "Schlüssel4", "Value": 4},
+    {"ObjektNr": 22122, "Key": "Schlüssel3", "Value": "Value3"}
 ]

@@ -1,0 +1,6 @@
+[
+    {"ObjektNr": 1, "Key": "Schlüssel1", "Value": 1.00000000001},
+    {"ObjektNr": 2, "Key": "Schlüssel2", "Value": "Value22"},
+    {"ObjektNr": 34, "Key": "Schlüssel3", "Value": "Value3"},
+    {"ObjektNr": 4, "Key": "Schlüssel3", "Value": "Value1"}
+]

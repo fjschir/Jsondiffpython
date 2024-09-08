@@ -1,38 +1,14 @@
 [
     {
         "ObjektNr": 2,
-        "Key": "Value",
-        "Value1": "Value2",
-        "Value2": "Value22"
+        "Key": "Schlüssel3",
+        "Value1": 3,
+        "Value2": 3.3
     },
     {
-        "ObjektNr": 3,
-        "Key": "Alle",
-        "Value1": {
-            "ObjektNr": 3,
-            "Key": "Schlüssel3",
-            "Value": "Value3"
-        },
+        "ObjektNr": 22122,
+        "Key": "Schlüssel4",
+        "Value1": "Value3",
         "Value2": null
-    },
-    {
-        "ObjektNr": 34,
-        "Key": "Alle",
-        "Value1": null,
-        "Value2": {
-            "ObjektNr": 34,
-            "Key": "Schlüssel3",
-            "Value": "Value3"
-        }
-    },
-    {
-        "ObjektNr": 4,
-        "Key": "Alle",
-        "Value1": null,
-        "Value2": {
-            "ObjektNr": 4,
-            "Key": "Schlüssel3",
-            "Value": "Value1"
-        }
     }
 ]
